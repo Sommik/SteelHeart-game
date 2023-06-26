@@ -5,5 +5,6 @@ public enum EnumPlayerBehaviour
     Run,
     Jump,
     Fall,
-    HalfSquat
+    HalfSquat,
+    Rise
 }
